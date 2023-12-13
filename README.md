@@ -1,2 +1,2 @@
 # CP_Prac
-Practices for competitive programming in c++
+Practices for competitive programming in c++ (most in CodeForces)
